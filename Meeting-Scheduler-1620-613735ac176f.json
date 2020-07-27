@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "meeting-scheduler-1620",
+  "private_key_id": "613735ac176f2614d531ed070e3c59344d39ad0d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDOVPkPkmswPque\ndAHdeqAv7NspL9YFxVZ0vOkzg/mfZpSFt5jVg4XXUu5V5fTXwfJ41bWnnTQYAq7v\npHz5fMH80EiparvLebYSW16HrAvDBWHkQPiOxGz0KjaehEvXuYwOoKzsE0QJ9FwH\nY/kRSp9rvr9XWsyfGzxftLjEe6cToLSgqvJl8ilIT8G3K+mHaqkkvQHYFlXdribQ\nutG2Cc1b8IZJvTCPKZzSMnuAS5BIdg6wk0FLJYw0EL8iaNEjDAu+81cKp2QgX9nE\n3t1Yhec3HXaGKzhEWpuZ7F0po9P6OOKkJiuTOFQJGaWqIiU0Mff1Wk1sKvlvDhZZ\nz4mJB9xxAgMBAAECggEABlx3S0Qb2uJrvxhbgF0J+EBIp3XqlsX1OuciF2z/sqri\ndFbrNtX1t+Q+JdbPnCFGHPSVw6OkmgLnKss68SQoBOfU/aglPwozE1DO0sb6m9oc\nIQHhx+EFbOeqRGvWvMFjMIZCnoqfg+ENP0sVQDO5Q4SfeI17loIr89VqBuC7D29M\nM910ohVXy1F0sqIT00bPY0WWG4Q4K9kWaisWFSBzo2dNQP++kUt/EO+uRjXbpQEl\nE3xA9CRDl9gds7v97nlP2nqRKFJfG1y5FhbstEgNUuk3wBYGfiXs/MbognaB4Qjl\nhfXHHZfjUSi7mWTeKoWJjkw2/qo0u8hvcQuf93vaIQKBgQD+S+K6yDfa3IAyDF+C\na0LVpEO47NsMI809QUxTqVcVbWPGug01t6AoxaEvFV5XSB01mA005LWNpPXg4rWX\nW6PO94mKv6m42Cfc4oRpyLY9LmdMoZOSj8NlTI6iIkg8Jj2M+RGTVt+WRN0Z8yxF\nxqkh525LqOeH/0u5NNJ0jM9smQKBgQDPttQw1SmhAo2842Yo+0Jpoe0a6cvkzMmh\nHjlPNNusOvVR/Wk1b7J1c4thVlIonGgKvwfclWqENxWarDH4Jui8A3rSc7jAqj5k\njLOs3jTy1CAQxICDqgV9CgmgwSnBkiAiTx7ZD03LADkny21H+G/Nhd+uB0bQRh3Q\nUYQEb9u9mQKBgFJmXI2Rmye8E34kLD6iawG3PIqLlV8VqseShR0G3kT/MTmPyAAE\nBE2x3EzZa7x0jaJ0JrNg+MNxFItOavEkrKu/4j2nZWOUBza335g3hXXFt4tJP/xZ\nwULtz7oRyb5T1dX8TwmjOMgEgHCML2hcuylVSJQToxKaUvssdpV1mzDhAoGAJhy8\n2Gz0Y3etfCAZaaGYsPsmH08Qu12cDXUXPOJNAFAdHTsrJ8Pj8csOowCMuKjiKj6c\n+atszO+yhhvcW1UAVScqTR0wpCFYq2hpu2lWO8wSSiFUF1SGB0hlNdrbh4oBXWo5\nFcjKFFppIlUgKxl5ojNTNIJfSu3ioIukdo/zuNkCgYEAyPMLerUiZoaE8bjEaDwV\nSOR+Hx04uNxcTV3sxF0HBqI5waPI1bX3HRekRuAh9LATsb+AL3r8dZD08ZE2pqRn\nkfQrp04UfzXr1wjNftSBS07tXMpehxrg6aK7SPCpLU/RglQLZcq8aHzx0pd2Dwor\nBJVKqionenoeXmQ7GRJTi60=\n-----END PRIVATE KEY-----\n",
+  "client_email": "meeting-scheduler-1620@meeting-scheduler-1620.iam.gserviceaccount.com",
+  "client_id": "105785343594849692424",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/meeting-scheduler-1620%40meeting-scheduler-1620.iam.gserviceaccount.com"
+}
